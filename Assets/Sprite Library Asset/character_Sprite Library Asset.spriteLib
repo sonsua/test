@@ -21,7 +21,7 @@ MonoBehaviour:
       m_Hash: 64810935
       m_Sprite: {fileID: 21300000, guid: 748e1b98ea14d1a43846bb61c21b3636, type: 3}
       m_FromMain: 1
-      m_SpriteOverride: {fileID: 21300000, guid: e4dbc5e593c40b742b0930657730a533, type: 3}
+      m_SpriteOverride: {fileID: 21300000, guid: fa56e80f486c9824abd2c6d16e984444, type: 3}
     m_FromMain: 1
     m_EntryOverrideCount: 1
   - m_Name: eye
@@ -32,7 +32,7 @@ MonoBehaviour:
       m_Hash: 64810935
       m_Sprite: {fileID: 21300000, guid: 89c28b3363dfbec429e03af47a35a8fb, type: 3}
       m_FromMain: 1
-      m_SpriteOverride: {fileID: 21300000, guid: 69a83a13eb646f14aa4a074c2840f37a, type: 3}
+      m_SpriteOverride: {fileID: 21300000, guid: 02e1efee7d1a06345b1848d025843b44, type: 3}
     m_FromMain: 1
     m_EntryOverrideCount: 1
   - m_Name: ear
@@ -47,5 +47,5 @@ MonoBehaviour:
     m_FromMain: 1
     m_EntryOverrideCount: 1
   m_PrimaryLibraryGUID: bf7f0c9ac4067b34499499ac49240a3e
-  m_ModificationHash: 638851087279822147
+  m_ModificationHash: 638984114790822711
   m_Version: 1

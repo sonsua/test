@@ -353,7 +353,6 @@ GameObject:
   m_Component:
   - component: {fileID: 535961315}
   - component: {fileID: 535961316}
-  - component: {fileID: 535961317}
   m_Layer: 0
   m_Name: GameObject
   m_TagString: Untagged
@@ -385,7 +384,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 535961314}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7d7e213d0816912428dfd53aaf9cfb11, type: 3}
+  m_Script: {fileID: 11500000, guid: 09762d696eb31014982f1745083fd35a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   spawnTime: 1
@@ -395,19 +394,7 @@ MonoBehaviour:
   - {fileID: 3727128239329143406, guid: c96b756fae173a14aa21a90bcaa55b82, type: 3}
   - {fileID: 3727128239329143406, guid: c96b756fae173a14aa21a90bcaa55b82, type: 3}
   - {fileID: 3727128239329143406, guid: c96b756fae173a14aa21a90bcaa55b82, type: 3}
---- !u!114 &535961317
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 535961314}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d6ac25620b0e225418fa839116c22a8d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sleepDelay: 0.5
+  - {fileID: 3727128239329143406, guid: c96b756fae173a14aa21a90bcaa55b82, type: 3}
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
